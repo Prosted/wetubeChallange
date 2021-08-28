@@ -1,0 +1,29 @@
+{
+  "name": "wetubechallenge",
+  "version": "1.0.0",
+  "description": "wetube Challenge final",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosted/wetubeChallange~.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prosted/wetubeChallange~/issues"
+  },
+  "homepage": "https://github.com/Prosted/wetubeChallange~#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  }
+}
